@@ -1,0 +1,14 @@
+/Users/ramdarshan/Documents/VS code/c language/unit converter/unit converter/bin/Debug/net9.0/unit converter
+/Users/ramdarshan/Documents/VS code/c language/unit converter/unit converter/bin/Debug/net9.0/unit converter.deps.json
+/Users/ramdarshan/Documents/VS code/c language/unit converter/unit converter/bin/Debug/net9.0/unit converter.runtimeconfig.json
+/Users/ramdarshan/Documents/VS code/c language/unit converter/unit converter/bin/Debug/net9.0/unit converter.dll
+/Users/ramdarshan/Documents/VS code/c language/unit converter/unit converter/bin/Debug/net9.0/unit converter.pdb
+/Users/ramdarshan/Documents/VS code/c language/unit converter/unit converter/obj/Debug/net9.0/unit converter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ramdarshan/Documents/VS code/c language/unit converter/unit converter/obj/Debug/net9.0/unit converter.AssemblyInfoInputs.cache
+/Users/ramdarshan/Documents/VS code/c language/unit converter/unit converter/obj/Debug/net9.0/unit converter.AssemblyInfo.cs
+/Users/ramdarshan/Documents/VS code/c language/unit converter/unit converter/obj/Debug/net9.0/unit converter.csproj.CoreCompileInputs.cache
+/Users/ramdarshan/Documents/VS code/c language/unit converter/unit converter/obj/Debug/net9.0/unit converter.dll
+/Users/ramdarshan/Documents/VS code/c language/unit converter/unit converter/obj/Debug/net9.0/refint/unit converter.dll
+/Users/ramdarshan/Documents/VS code/c language/unit converter/unit converter/obj/Debug/net9.0/unit converter.pdb
+/Users/ramdarshan/Documents/VS code/c language/unit converter/unit converter/obj/Debug/net9.0/unit converter.genruntimeconfig.cache
+/Users/ramdarshan/Documents/VS code/c language/unit converter/unit converter/obj/Debug/net9.0/ref/unit converter.dll
